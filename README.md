@@ -45,7 +45,7 @@ This project analyzes the Environmental, Social, and Governance (ESG) scores for
 ![ESG Scores by Sector](esg_scores_by_sector.png)
 
 ## Author
-- **Aman Mebrahtu** - Aspiring Data Scientist eager to apply data analysis and visualization skills.
+- **Aman Mebrahtu** - Aspiring Data Scientist getting masters degree from Eastern University, PA eager to apply data analysis and visualization skills.
 
 ## License
 This project is licensed under the MIT License.
